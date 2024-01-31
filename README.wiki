@@ -1,0 +1,279 @@
+<h1>Global News Agency</h1>
+
+== European News Agency ==
+
+{|
+! Agency !! Website
+|-
+| '''Radio France Internationale''' || RFI [https://zh.wikipedia.org/wiki/法国国际广播电台 Wiki]
+|-
+| France || [https://www.rfi.fr/cn/中国/ CN Page]
+|-
+| '''Deutsche Welle''' || [https://zh.wikipedia.org/wiki/德国之声 Wiki]
+|-
+| Germany || [https://www.dw.com/zh/ CN Page]
+|-
+| &nbsp; || [https://www.dw.com/en/asia/s-12758 ASIA Page]
+|-
+| '''Mail.ru*''' ||  [https://zh.wikipedia.org/wiki/Mail.ru Wiki]
+|-
+| Russia || [https://news.mail.ru/ Homepage]
+|-
+| '''Sputnik news agency & radio*''' || [https://zh.wikipedia.org/wiki/俄罗斯卫星通讯社 Wiki]
+|-
+| Russia || [https://sputniknews.cn/ CN Page]
+|}
+
+== American News Agency ==
+
+{|
+! Agency !! Website
+|-
+| '''New York Times''' || [https://zh.wikipedia.org/wiki/纽约时报 Wiki]
+|-
+| &nbsp; || [https://cn.nytimes.com/ CN Page]
+|-
+| &nbsp; || [https://www.nytimes.com/section/world/asia/ AP Page]
+|-
+| '''The Wall Street Journal''' || [https://zh.wikipedia.org/wiki/华尔街日报 Wiki]
+|-
+| &nbsp; || [https://cn.wsj.com/ CN Page]
+|-
+| &nbsp; || [https://www.wsj.com/news/types/china-news/ CHN]
+|-
+| '''Time''' ||  [https://zh.wikipedia.org/wiki/时代杂志 Wiki]
+|-
+| &nbsp; || [https://time.com/tag/china/ CHN]
+|-
+| '''Foreign Affairs''' ||  [https://zh.wikipedia.org/zh-cn/外交_(杂志) Wiki]
+|-
+| &nbsp; || [https://www.foreignaffairs.com/regions/china/ CHN]
+|-
+| '''Cable News Network*''' || CNN [https://zh.wikipedia.org/wiki/有线电视新闻网 Wiki]
+|-
+| &nbsp; || [https://edition.cnn.com/china/ CHN]
+|-
+| '''Bloomberg''' || [https://zh.wikipedia.org/wiki/彭博新聞社 Wiki]
+|-
+| &nbsp; || [https://www.bloomberg.com/asia ASIA Page]
+|-
+| '''National Broadcasting Company''' || NBC [https://zh.wikipedia.org/wiki/全国广播公司 Wiki]
+|-
+| &nbsp; || [https://www.nbcnews.com/world/ Homepage]
+|-
+| '''Associated Press*''' ||  [https://zh.wikipedia.org/wiki/美联社 Wiki]
+|-
+| &nbsp; || [https://apnews.com/hub/china/ CHN]
+|-
+| '''United Press Internationa''' ||  UPI [https://zh.wikipedia.org/wiki/合众国际社 Wiki]
+|-
+| &nbsp; || [https://www.upi.com/search?ss=China/ CHN]
+|-
+| '''Yahoo''' ||  [https://zh.wikipedia.org/wiki/雅虎 Wiki]
+|-
+| &nbsp; || [https://tw.news.yahoo.com/china/ CHN]
+|}
+
+== UK News Agency ==
+
+{|
+! Agency !! Website
+|-
+| '''British Broadcasting Corporation''' || BBC [https://zh.wikipedia.org/wiki/英国广播公司 Wiki]
+|-
+| &nbsp; || [https://www.bbc.com/zhongwen/simp/ CN Page]
+|-
+| &nbsp; || [https://www.bbc.com/news/world/asia/china/ CHN]
+|-
+| '''Reuters''' || [https://zh.wikipedia.org/wiki/路透社 Wiki]
+|-
+| &nbsp; || [https://www.reuters.com/world/china/ CHN]
+|-
+| '''The Economist''' ||  [https://zh.wikipedia.org/wiki/经济学人 Wiki]
+|-
+| &nbsp; || [https://www.economist.com/china/ CHN]
+|-
+| '''The Guardian''' ||  [https://zh.wikipedia.org/wiki/衛報 Wiki]
+|-
+| &nbsp; || [https://www.theguardian.com/world/china/ CHN]
+|-
+| '''Financial Times''' || [https://zh.wikipedia.org/wiki/金融時報_(英國) Wiki]
+|-
+| &nbsp; || [https://www.ftchinese.com/channel/china.html CN Page]
+|-
+| &nbsp; || [https://www.ft.com/world/asia-pacific/china/ CHN]
+|-
+| '''The Independent''' ||  [https://zh.wikipedia.org/wiki/獨立報_(英國) Wiki]
+|-
+| &nbsp; || [https://www.independent.co.uk/asia/china CHN]
+|}
+
+== Asia Pacific News Agency ==
+
+{|
+! Agency !! Website
+|-
+| '''Australian Broadcasting Corporation''' || ABC [https://zh.wikipedia.org/wiki/zh-hk/澳大利亚广播公司 Wiki]
+|-
+| Australia || [https://www.abc.net.au/news/chinese/ CN Page]
+|-
+| '''Channel News Asia''' || CNA [https://zh.wikipedia.org/wiki/亚洲新闻台 Wiki]
+|-
+| Singapore || [https://www.channelnewsasia.com/asia ASIA Page]
+|-
+| '''Lianhe Zaobao''' || [https://zh.wikipedia.org/wiki/联合早报 Wiki]
+|-
+| Singapore || [https://www.zaobao.com/ Homepage]
+|-
+| '''Al Jazeera''' || [https://zh.wikipedia.org/wiki/半岛电视台 Wiki]
+|-
+| Qatar || [https://www.aljazeera.com/news/ Homepage]
+|-
+| &nbsp; || [https://chinese.aljazeera.net/ CN Page*]
+|-
+| '''South China Morning Post''' || [https://zh.wikipedia.org/wiki/南華早報 Wiki]
+|-
+| Hongkong || [https://www.scmp.com/news/china CHN]
+|-
+| '''Central News Agency''' || [https://zh.wikipedia.org/wiki/中央通訊社 Wiki]
+|-
+| Taiwan || [https://www.cna.com.tw/list/acn.aspx Homepage]
+|-
+| '''Hapdong News Agency*''' || [https://zh.wikipedia.org/wiki/韓國聯合通訊社 Wiki]
+|-
+| South Korea || [https://cn.yna.co.kr/ CN Page]
+|-
+| &nbsp; || [https://www.yna.co.kr/international/china?site=navi_international_depth02 CHN]
+|-
+| '''Korea.net*''' || [https://chinese.korea.net/AboutUs/KOCIS About]
+|-
+| South Korea || [https://chinese.korea.net/ CN Page]
+|-
+| '''Nippon Hoso Kyokai*''' || NHK [https://zh.wikipedia.org/wiki/日本广播协会 Wiki]
+|-
+| Japan || [https://www3.nhk.or.jp/nhkworld/en/news/tags/30/ CHN]
+|-
+| '''Kyodo News*''' || [https://zh.wikipedia.org/wiki/共同通讯社 Wiki]
+|-
+| Japan || [https://china.kyodonews.net/ CN Page]
+|-
+| '''Asahi Shimbun*''' || [https://zh.wikipedia.org/wiki/朝日新聞 Wiki]
+|-
+| Japan || [https://www.asahi.com/ Homepage]
+|}
+
+== U.S. Agency for Global Media ==
+
+{|
+! Agency !! Website
+|-
+| '''Voice of America''' || VOA [https://zh.wikipedia.org/wiki/美国之音 Wiki]
+|-
+| &nbsp; || [https://www.voachinese.com/ CN Page]
+|-
+| &nbsp; || [https://www.voanews.com/navigation/allsites/ lang Page]
+|-
+| '''Radio Free Asia''' || RFA [https://zh.wikipedia.org/wiki/自由亚洲电台 Wiki]
+|-
+| &nbsp; || [https:///www.rfa.org/mandarin/ CN Page]
+|-
+| &nbsp; || [https://www.rfa.org/cantonese/ HK Page]
+|-
+| '''Radio Free Europe''' ||  RFERL [https://zh.wikipedia.org/wiki/自由欧洲电台／自由电台 Wiki]
+|-
+| &nbsp; || [https://www.rferl.org/ Homepage]
+|-
+| '''Office of Cuba Broadcasting''' || OCB [https://en.wikipedia.org/wiki/Radio_y_Televisi%C3%B3n_Mart%C3%AD Wiki]
+|-
+| &nbsp; || [https://www.martinoticias.com/ Homepage]
+|-
+| '''Middle East Broadcasting Networks*''' || MBN [https://en.wikipedia.org/wiki/Middle_East_Broadcasting_Networks Wiki]
+|-
+| &nbsp; || [https://www.alhurra.com/ Alhurra]
+|-
+| &nbsp; || [https://www.radiosawa.com/ Radio Sawa]
+|}
+
+== Overseas Community ==
+
+{|
+! Agency !! Website
+|-
+| '''Hong Kong Free Press''' || [https://zh.wikipedia.org/wiki/香港自由新聞 Wiki]
+|-
+| Hongkong || [https://hongkongfp.com/china-news/ CHN]
+|-
+| '''The Epoch Times''' || [https://zh.wikipedia.org/wiki/大纪元时报 Wiki]
+|-
+| &nbsp; || [https://www.epochtimes.com/ Homepage]
+|-
+| '''Radio Television Hong Kong''' || RTHK [https://zh.wikipedia.org/wiki/香港電台 Wiki]
+|-
+| Hongkong || [https://news.rthk.hk/rthk/ch/latest-news.htm CHN]
+|-
+| '''Yazhou Zhoukan''' ||  [https://zh.wikipedia.org/wiki/亞洲週刊 Wiki]
+|-
+| Hongkong || [http://www.yzzk.com/ Homepage]
+|-
+| '''Chinese Times*''' || [https://zh.wikipedia.org/wiki/中時新聞網 Wiki]
+|-
+| Taiwan || [https://www.chinatimes.com/chinese/ CHN]
+|-
+| '''World Journal''' || [https://zh.wikipedia.org/wiki/世界日報_(北美) Wiki]
+|-
+| &nbsp; || [https://www.worldjournal.com/wj/cate/china CHN]
+|-
+| '''Boxun News''' || [https://zh.wikipedia.org/wiki/博讯 Wiki]
+|-
+| &nbsp; || [https://boxun.com/archives/category/china CHN]
+|-
+| '''China Digital Times''' || [https://zh.wikipedia.org/wiki/中国数字时代 Wiki]
+|-
+| &nbsp; || [https://chinadigitaltimes.net/chinese CN Page]
+|-
+| '''International Consortium of Investigative Journalists''' || ICIJ [https://zh.wikipedia.org/zh-cn/國際調查記者同盟 Wiki]
+|-
+| &nbsp; || [https://www.icij.org/page/4/?s=china Homepage]
+|}
+
+== Social Media ==
+
+{|
+! Agency !! Website
+|-
+| '''Facebook''' || [https://zh.wikipedia.org/wiki/Facebook Wiki]
+|-
+| &nbsp; || [https://facebook.com/ Homepage]
+|-
+| '''Twitter''' || [https://zh.wikipedia.org/wiki/Twitter Wiki]
+|-
+| &nbsp; || [https://twitter.com/ Homepage]
+|-
+| '''Odnoklassniki''' ||  [https://zh.wikipedia.org/wiki/Odnoklassniki Wiki]
+|-
+| &nbsp; || [https://ok.ru/ Homepage]
+|-
+| '''Reddit''' || [https://zh.wikipedia.org/wiki/Reddit Wiki]
+|-
+| &nbsp; || [https://www.reddit.com/r/China_irl/ Homepage]
+|-
+| '''Quora''' || [https://zh.wikipedia.org/wiki/Quora Wiki]
+|-
+| &nbsp; || [https://realchina.quora.com/ Homepage]
+|-
+| '''YouTube''' || [https://zh.wikipedia.org/wiki/YouTube Wiki]
+|-
+| &nbsp; || [https://www.youtube.com/ Homepage]
+|-
+| '''V2EX''' || [https://zh.wikipedia.org/wiki/V2EX Wiki]
+|-
+| &nbsp; || [https://www.v2ex.com/ Homepage]
+|}
+
+<br>
+&nbsp; * Out off the blacklist.<br>
+&nbsp; $ Subscribe for unlimited access.<br>
+<br>
+If you can't access the * websites, pls refer to <A href="/dns/host.md">DNS</A> to change the host file.<br>
+Available for <A href="https://braelynluz.github.io/sustainablepic/wiki/">HTML</A>.<br>
+Supported by a great <A href="https://theagora.github.io/news1/news0/">News Aggregation Platform</A>.
