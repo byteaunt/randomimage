@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ⓇⓄⒸ</title>
+    <link rel="shortcut icon" href="https://cdn3.iconfinder.com/data/icons/leto-space/64/__earth_moon_planet-256.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        
+    iframe {
+        position: absolute;
+        top: 50px;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        border: none;
+        width: 100%;
+        height: 100%;
+    }
+
+    #navbar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 50px;
+        background-color: #333;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center; /* 修改为这个值 */
+        padding: 0 10px; /* 修改为这个值 */
+        box-sizing: border-box;
+        transition: top 2s;
+        z-index: 1;
+    }
+
+    #navbar button {
+        margin-right: 10px;
+        background-color: transparent;
+        border: none;
+        color: #fff;
+        padding: 8px 16px;
+        cursor: pointer;
+    }
+
+    #navbar button:hover {
+        background-color: rgba(90, 180, 255, 0.8);
+        border-radius: 15px;
+    }
+
+    #navbar button-search {
+        margin-right: 4px;
+        background-color: transparent;
+        border: none;
+        color: #888888;
+        padding: 8px 8px;
+        cursor: pointer;
+    }
+    
+    #navbar button-search:hover {
+        background-color: rgba(90, 180, 255, 0.8);
+        border-radius: 15px;
+    }
+    
+
+#searchBar {
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #f4f4f4;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 5px;
+  height: 40px;
+  z-index: 2;
+  display: block;
+  width: 250px;
+}
+
+#searchBar form {
+    margin-top: 7px;
+    margin-left: 4px;
+}
+
+#searchBar form input {
+    height: 22px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
+
+#searchBar form input:hover {
+			box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+		.search-button {
+			align-items: center;
+			justify-content: center;
+			padding-bottom: 12px;
+			padding-right: 12px;
+			border: none;
+            background-color: rgba(0, 0, 0, 0.1);
+			border-radius: 4px;
+			cursor: pointer;
+			width: fit-content;
+		}
+		.search-button:hover {
+			background-color: #0069d9;
+		}
+
+
+</style>
+</head>
+<body>
+    <div id="navbar">        
+    <button onclick="changeFrame('a')" onmouseover="buttonOver(this)">🅡</button>
+    <button onclick="changeFrame('b')" onmouseover="buttonOver(this)">🅞</button>
+    <button onclick="changeFrame('c')" onmouseover="buttonOver(this)">🅒</button>
+    <div id="searchBar" style="display: none;"></div>
+</div>
+
+<iframe id="iframe-a" src="https://gg.ookk.pp.ua"></iframe>
+<iframe id="iframe-b" src="https://4.ookk.pp.ua/waimei" style="display: none;"></iframe>
+<iframe id="iframe-c" src="https://0.ookk.pp.ua/news" style="display: none;"></iframe>
+
+<script>
+
+    function changeFrame(frameId) {
+        document.getElementById('iframe-a').style.display = 'none';
+        document.getElementById('iframe-b').style.display = 'none';
+        document.getElementById('iframe-c').style.display = 'none';
+        document.getElementById('searchBar').style.display = 'none';
+
+
+        document.getElementById('iframe-' + frameId).style.display = 'block';
+    }
+
+    window.onresize = function(event) {
+        var body = document.getElementsByTagName('body')[0];
+        body.style.width = window.innerWidth + 'px';
+        body.style.height = window.innerHeight + 'px';
+        var iframes = document.getElementsByTagName('iframe');
+        for (var i = 0; i < iframes.length; i++) {
+            iframes[i].style.height = (window.innerHeight - 50) + 'px';
+        }
+    };
+    window.onresize();
+
+
+    var buttons = document.querySelectorAll("#navbar button");
+
+
+
+    for (var i = 0; i < buttons.length; i++) {
+        var button = buttons[i];
+        button.onmouseover = function() {
+            buttonOver(this);
+        };
+        button.onmouseout = function() {
+            buttonOut(this);
+        };
+    }
+    
+
+</script>
+</body>
+</html>
