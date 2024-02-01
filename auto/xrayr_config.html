@@ -206,7 +206,6 @@ Nodes:
     <h3>XrayR配置文件生成器</h3>
 <a href="https://xrayr-project.github.io/XrayR-doc/xrayr-pei-zhi-wen-jian-shuo-ming/config.html" target="_blank">XrayR官方文档</a><br><br>
 
-        <form id="configForm1">
         <label for="placeholder0">PanelType:</label>
 <select id="placeholder0" name="placeholder0" onchange="saveData()">
     <option value="NewV2board">NewV2board（V2board面板版本>1.7.0）</option>
@@ -220,8 +219,7 @@ Nodes:
         <input type="text" id="placeholder2" name="placeholder2" onchange="saveData()"><br>
         <label for="placeholder3">NodeID:</label>
         <input type="text" id="placeholder3" name="placeholder3" onchange="saveData()"><br>
-        
-        <form id="configForm2">
+
         <label for="placeholder4">NodeType:</label>
 <select id="placeholder4" name="placeholder4" onchange="saveData()">
     <option value="V2ray">V2ray</option>
@@ -233,8 +231,6 @@ Nodes:
         <label for="placeholder5">CertDomain:</label>
         <input type="text" id="placeholder5" name="placeholder5" onchange="saveData()"><br>
 
-        
-        <form id="configForm3">
         <label for="placeholder6">Provider:</label>
 <select id="placeholder6" name="placeholder6">
     <option value="cloudflare">cloudflare</option>
@@ -249,7 +245,6 @@ Nodes:
 <br>
 
         <button type="button" onclick="generateConfig()">生成配置文件</button>
-    </form>
     <h3>生成的配置</h3>
     <textarea id="generatedConfig" rows="12" cols="70"></textarea>
 </body>
