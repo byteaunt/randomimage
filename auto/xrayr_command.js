@@ -1,3 +1,4 @@
+// 需要注意配置SSL证书以支持 https 和 允许的白名单域名 allowedOrigins
 const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
@@ -7,7 +8,7 @@ const port = 5909;
 
 // 自定义CORS中间件
 app.use((req, res, next) => {
-    // 允许的域名列表
+    // 允许的域名列表，区分 http 和 https
     const allowedOrigins = ['https://bytefrontiers.github.io'];
 
     const origin = req.headers.origin;
@@ -41,6 +42,7 @@ app.post('/generate', (req, res) => {
             return res.status(500).send('Error generating the file.');
         }
         // 生成并返回下载链接，包含唯一ID和固定的文件名
+        // 需要注意配置SSL证书以支持 https，否则请改为http
         res.send({ link: `https://${req.headers.host}/xrayr/${uniqueId}/config.yml` });
     });
 });
