@@ -1,4 +1,4 @@
-// 需要注意配置SSL证书以支持 https 和 允许的白名单域名 allowedOrigins
+// 这个版本需要注意配置SSL证书以支持 https ，并且设置允许的白名单域名 allowedOrigins
 const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
